@@ -1,0 +1,687 @@
+﻿TARGET_FID,provinsi,POS_HUJAN_ID,NAME,CURRENT_LATITUDE,CURRENT_LONGITUDE,tipe_iklim
+1,Sulut,71010501a,BPP Sangtombolang,0.84,123.89,Monsunal
+2,Sulut,71010502a,KC Sangtombolang,0.84,123.83,Monsunal
+3,Sulut,71010901a,BPP Dumoga Tengah,0.55,124.03,Ekuatorial
+4,Sulut,71010902a,KC Dumoga Barat,0.55,123.99,Ekuatorial
+5,Sulut,71011001a,BPP Dumoga Timur,0.6,124.08,Ekuatorial
+6,Sulut,71011101a,BPP Dumoga Utara,0.57,123.99,Ekuatorial
+7,Sulut,71011201a,KD Motabang Lolak,0.88,124,Monsunal
+8,Sulut,71011202a,KD Labuhan Uki,0.86,123.94,Monsunal
+9,Sulut,71011203a,BPP Lolak,0.88,124.04,Monsunal
+10,Sulut,71011301a,BPP Bolaang,0.87,124.12,Monsunal
+11,Sulut,71011302a,KC Bolaang,0.92,124.1,Monsunal
+12,Sulut,71011401a,BPP Lolayan,0.67,124.27,Ekuatorial
+13,Sulut,71011901a,BPP Passi Barat,0.77,124.3,Ekuatorial
+14,Sulut,71012001a,KC Poigar,0.99,124.28,Monsunal
+15,Sulut,71012002a,BPP Poigar,0.99,124.26,Monsunal
+16,Sulut,71012201a,KD Pangian Barat,0.8,124.4,Ekuatorial
+17,Sulut,71013101a,BPP Bolaang Timur,0.92,124.12,Monsunal
+18,Sulut,71020101a,BPP Tondano Barat,1.3,124.9,Ekuatorial
+19,Sulut,71020201a,BPP Tondano Timur,1.27,124.94,Ekuatorial
+20,Sulut,71020202a,Stageof Tondano,1.29,124.92,Ekuatorial
+21,Sulut,71020301a,UPTD Eris,1.23,124.85,Monsunal
+22,Sulut,71020302a,BPP Eris,1.23,124.92,Monsunal
+23,Sulut,71020401a,UPTD Kombi,1.24,124.97,Ekuatorial
+24,Sulut,71020501a,UPTD Lembean Timur,1.22,124.96,Ekuatorial
+25,Sulut,71020502a,BPP Lembean Timur,1.22,124.96,Ekuatorial
+26,Sulut,71020601a,BBU Wasian Kakas,1.17,124.87,Monsunal
+27,Sulut,71020701a,BPP Tompaso,1.19,124.79,Monsunal
+28,Sulut,71020801a,BPP Remboken,1.24,124.89,Monsunal
+29,Sulut,71020901a,KD Sumaraya,1.18,124.84,Monsunal
+30,Sulut,71021001a,BPP Langowan Barat,1.14,124.82,Monsunal
+31,Sulut,71021101a,KC Sonder,1.26,124.78,Monsunal
+32,Sulut,71021201a,KD Kanonang II,1.18,124.78,Monsunal
+33,Sulut,71021202a,UPTD Kawangkoan,1.2,124.79,Monsunal
+34,Sulut,71021301a,SPP Kalasey,1.45,124.77,Monsunal
+35,Sulut,71021302a,KD Kali Pineleng,1.4,124.84,Monsunal
+36,Sulut,71021303a,BPP Pineleng,1.43,124.8,Monsunal
+37,Sulut,71021401a,BPP Tombulu,1.45,124.89,Monsunal
+38,Sulut,71021501a,"KD Tambala, Tanawangko",1.4,124.69,Monsunal
+39,Sulut,71021502a,BPP Tombariri,1.34,124.73,Monsunal
+40,Sulut,71021601a,BPP Tondano Utara,1.32,124.91,Ekuatorial
+41,Sulut,71021602a,PLTA Tonsealama,1.33,124.92,Ekuatorial
+42,Sulut,71021701a,BPP Langowan Selatan,1.14,124.84,Monsunal
+43,Sulut,71021801a,BPP Tondano Selatan,1.29,124.88,Monsunal
+44,Sulut,71021901a,BPP Langowan Utara,1.18,124.86,Monsunal
+45,Sulut,71050101a,UPTD Modoinding,0.8,124.45,Ekuatorial
+46,Sulut,71050201a,UPTD Tompaso Baru,0.93,124.47,Monsunal
+47,Sulut,71050301a,BPP Ranoyapo,0.99,124.5,Monsunal
+48,Sulut,71050701a,BPP Motoling,1.04,124.47,Monsunal
+49,Sulut,71050801a,BPP Sinonsayang,1.12,124.34,Monsunal
+50,Sulut,71050901a,UPP Tenga,1.17,124.44,Monsunal
+51,Sulut,71051001a,BPP Amurang,1.18,124.57,Monsunal
+52,Sulut,71051201a,UPTD Tumpaan,1.27,124.62,Monsunal
+53,Sulut,71051202a,BBTPH Tumpaan,1.27,124.62,Monsunal
+54,Sulut,71051203a,BPP Tumpaan,1.26,124.61,Monsunal
+55,Sulut,71051301a,UPTD Tareran,1.23,124.73,Monsunal
+56,Sulut,71051601a,BPP Maesaan,0.88,124.48,Monsunal
+57,Sulut,71051701a,BPP Amurang Barat,1.19,124.51,Monsunal
+58,Sulut,71051801a,BPP Amurang Timur,1.21,124.6,Monsunal
+59,Sulut,71051901a,BPP Tatapaan,1.28,124.61,Monsunal
+60,Sulut,71052201a,BPP Motoling Timur,1.07,124.5,Monsunal
+61,Sulut,71052301a,BPP Suluun Tareran,1.28,124.7,Monsunal
+62,Sulut,71060101a,BPP Kema I,1.38,125.07,Ekuatorial
+63,Sulut,71060102a,KD Makalisung,1.29,125.04,Ekuatorial
+64,Sulut,71060201a,KC Kauditan,1.4,125.05,Ekuatorial
+65,Sulut,71060202a,BPP Kauditan,1.39,125.02,Ekuatorial
+66,Sulut,71060301a,UPP Airmadidi,1.43,124.98,Monsunal
+67,Sulut,71060302a,BPP Airmadidi,1.43,124.97,Monsunal
+68,Sulut,71060401a,BPP Wori,1.6,124.86,Monsunal
+69,Sulut,71060501a,UPP Tatelu,1.54,125,Monsunal
+70,Sulut,71060502a,BPP Dimembe,1.5,124.98,Monsunal
+71,Sulut,71060503a,KD Klabat,1.5,125.06,Monsunal
+72,Sulut,71060601a,KD Tarabitan Likupang Barat,1.74,124.99,Monsunal
+73,Sulut,71060602a,BPP Likupang Barat,1.75,125,Monsunal
+74,Sulut,71060701a,UPTD Likupang Timur,1.66,125.06,Monsunal
+75,Sulut,71060702a,BPP Likupang Timur,1.66,125.11,Monsunal
+76,Sulut,71060801a,BPP Kalawat,1.45,124.93,Monsunal
+77,Sulut,71060901a,KD Talawaan,1.54,124.95,Monsunal
+78,Sulut,71060902a,BPP Talawaan,1.55,124.95,Monsunal
+79,Sulut,71060904a,Staklim Minahasa Utara,1.5,124.9,Monsunal
+80,Sulut,71061001a,BPP Likupang Selatan,1.61,125.02,Monsunal
+81,Sulut,71070101a,UPTD Ratahan,1.05,124.8,Ekuatorial
+82,Sulut,71070102a,Bp4K Ratahan,1.04,124.79,Ekuatorial
+83,Sulut,71070201a,BPP Pusomaen,0.99,124.87,Ekuatorial
+84,Sulut,71070301a,BPP Belang,0.94,124.79,Ekuatorial
+85,Sulut,71070401a,KC Ratatotok,0.94,124.79,Ekuatorial
+86,Sulut,71070501a,TCSDP Tombatu,1.04,124.68,Monsunal
+87,Sulut,71070502a,BPP Tombatu,1.37,124.68,Monsunal
+88,Sulut,71070601a,BPP Touluaan,1.05,124.66,Monsunal
+89,Sulut,71080101a,BPP Sangkub,0.87,123.64,Monsunal
+90,Sulut,71080201a,BPP Bintauna,0.88,123.58,Monsunal
+91,Sulut,71080301a,BPP Bolangitang Timur,0.88,123.44,Monsunal
+92,Sulut,71080401a,BPP Bolangitang Barat,0.9,123.32,Monsunal
+93,Sulut,71080501a,BPP Kaidipang,0.9,123.28,Monsunal
+94,Sulut,71080601a,BPP Pinogaluman,0.91,123.13,Monsunal
+95,Sulut,71100101a,BPP Tutuyan,0.74,124.61,Ekuatorial
+96,Sulut,71100201a,UPP Kotabunan,0.81,124.66,Ekuatorial
+97,Sulut,71100202a,BPP/KC Kotabunan,0.81,124.66,Ekuatorial
+98,Sulut,71100301a,KD Molobog,0.65,124.54,Ekuatorial
+99,Sulut,71100302a,BPP Nuangan,0.6,124.52,Ekuatorial
+100,Sulut,71100401a,BPP Modayag,0.71,124.38,Ekuatorial
+101,Sulut,71100501a,BPP Modayag Barat,0.72,124.37,Ekuatorial
+102,Sulut,71110101a,KC Bolaang Uki,0.39,123.98,Lokal
+103,Sulut,71110201a,BPP Posigadan,0.3,123.62,Ekuatorial
+104,Sulut,71110301a,UPTD Pinolosian,0.39,124.12,Lokal
+105,Sulut,71110401a,BPP Pinolosian Tengah,0.44,124.26,Lokal
+106,Sulut,71110501a,BPP Pinolosian Timur,0.48,124.35,Lokal
+107,Sulut,71710102a,KKel. Tongkaina,1.58,124.82,Monsunal
+108,Sulut,71710103a,KKel. Meras,1.55,124.82,Monsunal
+109,Sulut,71710104a,KKel. Bailang,1.53,124.85,Monsunal
+110,Sulut,71710201a,KC Tuminting,1.51,124.85,Monsunal
+111,Sulut,71710202a,Bp4K Manado,1.5,124.84,Monsunal
+112,Sulut,71710501a,KKel. Paal 4,1.47,124.87,Monsunal
+113,Sulut,71710801a,BPP Mapanget,1.56,124.86,Monsunal
+114,Sulut,71710802a,KP Pandu,1.58,124.88,Monsunal
+115,Sulut,71710803a,KKel. Kairagi II,1.5,124.9,Monsunal
+116,Sulut,71710804a,POLITEKNIK,1.51,124.89,Monsunal
+117,Sulut,71710805a,Stamet Samrat,1.54,124.92,Monsunal
+118,Sulut,71710901a,Stageof Winangun,1.45,124.84,Monsunal
+119,Sulut,71710902a,KKel. Malalayang II,1.45,124.8,Monsunal
+120,Sulut,71710903a,Faperta Unsrat,1.46,124.83,Monsunal
+121,Sulut,71720201a,Stamar Bitung,1.44,125.18,Ekuatorial
+122,Sulut,71720301a,UPT Danowudu,1.46,125.13,Ekuatorial
+123,Sulut,71720302a,TWA-BKSDA Batu Putih,1.57,125.16,Monsunal
+124,Sulut,71720304a,KKel. Pinasungkulan,1.55,125.12,Monsunal
+125,Sulut,71720401a,BPP Aertembaga,1.46,125.21,Ekuatorial
+126,Sulut,71720501a,UPT Matuari,1.43,125.11,Ekuatorial
+127,Sulut,71720502a,KKel. Tendeki,1.45,125.1,Ekuatorial
+128,Sulut,71720702a,KKel. Kakenturan II,1.46,125.2,Ekuatorial
+129,Sulut,71730101a,BPP/UPTD Tumatantang,1.3,124.83,Monsunal
+130,Sulut,71730201a,BPP Tomohon Tengah,1.34,124.84,Monsunal
+131,Sulut,71730301a,BPP Tomohon Utara,1.39,124.82,Monsunal
+132,Sulut,71730401a,BPP Tomohon Barat,1.32,124.78,Monsunal
+133,Sulut,71730501a,BPP Tomohon Timur,1.3,124.85,Monsunal
+134,Sulut,71740101a,BPP Kotamobagu Utara,0.76,124.34,Ekuatorial
+135,Sulut,71740201a,BPP Kotamobagu Timur,0.72,124.32,Ekuatorial
+136,Sulut,71740301a,BPP Kotamobagu Selatan,0.72,124.29,Ekuatorial
+137,Sulut,71740401a,BPP Mongkonai,0.74,124.28,Ekuatorial
+138,Sulut,71740402a,KC Kotamobagu Barat,0.74,124.28,Ekuatorial
+139,Sulteng,72010101a,Bakung,-1.3,122.52,Lokal
+140,Sulteng,72010201a,Beringin,-0.87,122.22,Lokal
+141,Sulteng,72010301a,Kintom,-1.16,122.66,Lokal
+142,Sulteng,72010401a,Luwuk,-0.95,122.79,Lokal
+143,Sulteng,72010402a,Stamet Luwuk,-0.94,122.79,Lokal
+144,Sulteng,72010403a,Salodik,-0.82,122.87,Lokal
+145,Sulteng,72010501a,Baruga,-0.89,123.15,Lokal
+146,Sulteng,72010601a,Balantak,-0.88,123.39,Lokal
+147,Sulteng,72010701a,Pagimana,-0.79,122.64,Lokal
+148,Sulteng,72010801a,Samaku,-0.6,123.06,Lokal
+149,Sulteng,72010901a,Tolisu,-1.44,122.28,Lokal
+150,Sulteng,72010902a,Cendana Pura,-1.44,122.35,Lokal
+151,Sulteng,72011001a,Cemerlang,-0.86,123.14,Lokal
+152,Sulteng,72011101a,Luwuk Timur,-0.86,123.04,Lokal
+153,Sulteng,72011201a,Pandan Wangi,-1.53,122.29,Lokal
+154,Sulteng,72011301a,Nuhon,-0.96,122.11,Lokal
+155,Sulteng,72011401a,Moilong,-1.43,122.42,Lokal
+156,Sulteng,72011501a,Sinorang,-1.39,122.45,Lokal
+157,Sulteng,72011701a,Simpang Raya,-0.94,122.24,Lokal
+158,Sulteng,72020101a,Poso Kota,-1.38,120.74,Ekuatorial
+159,Sulteng,72020201a,Stamet Poso,-1.36,120.64,Ekuatorial
+160,Sulteng,72020301a,Maliwuko,-1.43,120.77,Ekuatorial
+161,Sulteng,72020501a,Pamona Timur,-1.89,120.82,Ekuatorial
+162,Sulteng,72020502a,Tentena,-1.75,120.65,Ekuatorial
+163,Sulteng,72020601a,Pandayora,-2.12,120.7,Ekuatorial
+164,Sulteng,72020701a,Lore Utara,-1.43,120.32,Ekuatorial
+165,Sulteng,72020801a,Stasiun PAG Lore Lindu Bariri,-1.71,120.24,Ekuatorial
+166,Sulteng,72021801a,Kilo,-1.28,120.59,Ekuatorial
+167,Sulteng,72021901a,Tangkura,-1.49,120.63,Ekuatorial
+168,Sulteng,72022401a,Maholo,-1.48,120.38,Ekuatorial
+169,Sulteng,72022501a,Lore Piore,-1.53,120.33,Ekuatorial
+170,Sulteng,72030401a,Lalundu,-1.29,119.51,Ekuatorial
+171,Sulteng,72030601a,Karya Mukti,0.17,119.93,Ekuatorial
+172,Sulteng,72030801a,Gunung Bale,-0.68,119.75,Lokal
+173,Sulteng,72030901a,Labuan Salumbone,-0.67,119.82,Lokal
+174,Sulteng,72030902a,Simou,-0.63,119.85,Lokal
+175,Sulteng,72031001a,Sindue,-0.6,119.85,Lokal
+176,Sulteng,72031002a,Lero,-0.62,119.8,Lokal
+177,Sulteng,72031101a,Lompio,-0.2,119.85,Ekuatorial
+178,Sulteng,72031201a,Balaesang,-0.02,119.89,Ekuatorial
+179,Sulteng,72031401a,Siboang,0.5,120.04,Ekuatorial
+180,Sulteng,72031801a,Surumana,-0.83,119.62,Ekuatorial
+181,Sulteng,72031802a,Tanamea,-0.83,119.62,Ekuatorial
+182,Sulteng,72031803a,Watatu,-0.87,119.59,Ekuatorial
+183,Sulteng,72031804a,Lumbumamara,-0.82,119.68,Lokal
+184,Sulteng,72031901a,Nupabomba,-0.72,119.96,Lokal
+185,Sulteng,72032401a,Tibo,-0.49,119.76,Lokal
+186,Sulteng,72032501a,Sindue Tobata,-0.34,119.76,Ekuatorial
+187,Sulteng,72032701a,Kola Kola,-0.72,119.71,Lokal
+188,Sulteng,72032702a,Kabonga Besar,-0.71,119.76,Lokal
+189,Sulteng,72033001a,Ogoamas,0.73,120.14,Ekuatorial
+190,Sulteng,72033101a,Kamonji,-0.11,119.68,Ekuatorial
+191,Sulteng,72040101a,Lempe,0.77,120.21,Ekuatorial
+192,Sulteng,72040201a,Bambapula,0.98,120.3,Ekuatorial
+193,Sulteng,72040301a,Lais,0.78,120.45,Ekuatorial
+194,Sulteng,72040401a,Kayu Lompa,0.74,120.67,Ekuatorial
+195,Sulteng,72040501a,Bilo,0.92,120.64,Ekuatorial
+196,Sulteng,72040601a,Tinading,0.92,120.8,Ekuatorial
+197,Sulteng,72040701a,Buntuna,1.02,120.8,Ekuatorial
+198,Sulteng,72040801a,Stamet Toli-Toli,1.13,120.88,Ekuatorial
+199,Sulteng,72040901a,Salumpaga,1.32,120.96,Ekuatorial
+200,Sulteng,72041001a,Dungingis,1.25,120.82,Ekuatorial
+201,Sulteng,72050201a,Lakea,1.23,121.24,Ekuatorial
+202,Sulteng,72050401a,Lonu,1.03,121.56,Ekuatorial
+203,Sulteng,72050701a,Boilan,1.08,121.3,Ekuatorial
+204,Sulteng,72050801a,Modo,0.99,121.46,Ekuatorial
+205,Sulteng,72060101a,Mori Atas,-1.97,120.98,Ekuatorial
+206,Sulteng,72060201a,Wara'A,-2.16,121.22,Ekuatorial
+207,Sulteng,72060301a,Petasia,-2.02,121.34,Ekuatorial
+208,Sulteng,72060501a,Bahomoleo,-2.45,121.91,Ekuatorial
+209,Sulteng,72060801a,Umpanga,-2.29,121.81,Ekuatorial
+210,Sulteng,72061001a,Bahodopi,-2.79,122.13,Ekuatorial
+211,Sulteng,72061201a,Sampean Taba,-2.24,121.66,Ekuatorial
+212,Sulteng,72061401a,Mori Utara,-1.99,120.98,Ekuatorial
+213,Sulteng,72080101a,Baliara,-0.81,120.17,Lokal
+214,Sulteng,72080201a,Ampibabo,-0.45,120.07,Ekuatorial
+215,Sulteng,72080401a,Pembuni,0.47,121.2,Ekuatorial
+216,Sulteng,72080402a,Moutong Barat,0.47,121.21,Ekuatorial
+217,Sulteng,72080601a,Sausu,-1.05,120.45,Ekuatorial
+218,Sulteng,72080701a,Anutapura,0.5,120.97,Ekuatorial
+219,Sulteng,72080901a,Torue,-0.98,120.32,Ekuatorial
+220,Sulteng,72081001a,Polly,-0.02,120.09,Ekuatorial
+221,Sulteng,72081101a,Dolago,-0.9,120.23,Lokal
+222,Sulteng,72081301a,Toribulu,-0.33,120.02,Ekuatorial
+223,Sulteng,72081501a,Suli,-1.01,120.4,Ekuatorial
+224,Sulteng,72081701a,Siniu,-0.54,120.05,Lokal
+225,Sulteng,72081801a,Palasa,0.5,120.42,Ekuatorial
+226,Sulteng,72090401a,Ampana Tete,-0.87,121.66,Ekuatorial
+227,Sulteng,72090501a,Ampana Kota,-0.92,121.57,Ekuatorial
+228,Sulteng,72090601a,Kabelo,-1.44,121.05,Ekuatorial
+229,Sulteng,72090602a,Cempa,-0.96,121.46,Ekuatorial
+230,Sulteng,72090801a,Tayawa,-1.44,121.09,Ekuatorial
+231,Sulteng,72100101a,Biromaru,-0.96,119.92,Lokal
+232,Sulteng,72100201a,Bahagia,-1.15,120.1,Lokal
+233,Sulteng,72100202a,Makmur,-1.14,120.06,Lokal
+234,Sulteng,72100203a,Soulove,-1.03,119.93,Lokal
+235,Sulteng,72100501a,Sungku,-1.46,119.99,Ekuatorial
+236,Sulteng,72100601a,Gimpu,-1.62,120.04,Ekuatorial
+237,Sulteng,72100801a,Gumbasa,-1.19,119.94,Lokal
+238,Sulteng,72100901a,Baluase,-1.21,119.89,Lokal
+239,Sulteng,72100902a,Mantikole,-1.08,119.87,Lokal
+240,Sulteng,72101201a,Sidondo,-1.11,119.91,Lokal
+241,Sulteng,72101202a,Tulo,-1.02,119.89,Lokal
+242,Sulteng,72101301a,Kinovaro,-0.96,119.83,Lokal
+243,Sulteng,72710101a,Layana Indah,-0.81,119.9,Lokal
+244,Sulteng,72710201a,Stageof Palu,-0.91,119.84,Lokal
+245,Sulteng,72710301a,Stamet Palu,-0.92,119.9,Lokal
+246,Sulteng,72710401a,Kayumalue,-0.76,119.88,Lokal
+247,Sulsel,73020101a,Bonto Macina,-5.51,120.12,Lokal
+248,Sulsel,73020201a,BPP Tanah Kongkong,-5.56,120.18,Lokal
+249,Sulsel,73020301a,Bonto Bahari,-5.53,120.36,Lokal
+250,Sulsel,73020401a,Bontotanga,-5.44,120.35,Lokal
+251,Sulsel,73020501a,Herlang,-5.4,120.37,Lokal
+252,Sulsel,73020601a,Tanajaya / Kajang,-5.34,120.35,Lokal
+253,Sulsel,73020801a,Bulo-Bulo / Tanete,-5.36,120.14,Monsunal
+254,Sulsel,73020802a,Borong Rapoa,-5.39,120.04,Monsunal
+255,Sulsel,73020901a,Bpp. Paruku/Ujung Loe,-5.34,120.27,Monsunal
+256,Sulsel,73021001a,Ex SMPK Batukaropa,-5.47,120.22,Lokal
+257,Sulsel,73030101a,Campagaloe/ Bonto Jaya,-5.53,119.87,Monsunal
+258,Sulsel,73030102a,Bonto Cinde,-5.55,119.89,Monsunal
+259,Sulsel,73030201a,Bippl. Lamalaka,-5.55,119.96,Lokal
+260,Sulsel,73030202a,Allu/ Karatuang,-5.53,119.96,Lokal
+261,Sulsel,73030301a,Kampala / Eremerasa,-5.48,120,Lokal
+262,Sulsel,73030401a,Tompobulu/ Banyorang,-5.45,120.04,Monsunal
+263,Sulsel,73030501a,Pa' Jukukang / Nipa - Nipa,-5.56,120.02,Lokal
+264,Sulsel,73030601a,Loka/Ulu Ere,-5.45,119.91,Lokal
+265,Sulsel,73030701a,Dampang,-5.5,120.04,Lokal
+266,Sulsel,73030702a,Baji Minasa,-5.5,120.07,Lokal
+267,Sulsel,73030703a,Layoa,-5.54,120.08,Lokal
+268,Sulsel,73030801a,Bonto Maccini,-5.5,119.93,Lokal
+269,Sulsel,73040101a,BPP Benteng,-5.58,119.56,Monsunal
+270,Sulsel,73040201a,Bpp Tamalatea,-5.62,119.65,Monsunal
+271,Sulsel,73040202a,Pesantren Darul I'Tisham,-5.58,119.69,Monsunal
+272,Sulsel,73040301a,Ex Smpk Pakkaterang,-5.67,119.73,Monsunal
+273,Sulsel,73040401a,Tarowang,-5.6,119.86,Monsunal
+274,Sulsel,73040601a,Kantor Kelurahan Bulu Jaya,-5.49,119.54,Monsunal
+275,Sulsel,73040701a,Bulu Sibatang,-5.56,119.68,Monsunal
+276,Sulsel,73040702a,Bangkalaloe,-5.6,119.72,Monsunal
+277,Sulsel,73040801a,Bontomatene,-5.61,119.78,Monsunal
+278,Sulsel,73040901a,Bendungan Kelara,-5.53,119.82,Monsunal
+279,Sulsel,73040902a,Pattiroang,-5.65,119.82,Monsunal
+280,Sulsel,73050101a,Bb Paddingin,-5.43,119.41,Monsunal
+281,Sulsel,73050201a,Lakatong / Cikoang,-5.54,119.45,Monsunal
+282,Sulsel,73050301a,Cakura,-5.42,119.51,Monsunal
+283,Sulsel,73050401a,Bppk. Polobangkeng Utara,-5.39,119.45,Monsunal
+284,Sulsel,73050402a,Ko'Mara,-5.39,119.55,Monsunal
+285,Sulsel,73050403a,ex SMPK PG. Takalar,-5.36,119.5,Monsunal
+286,Sulsel,73050404a,Tammuloe / Lassang,-5.33,119.48,Monsunal
+287,Sulsel,73050501a,Bppk. Galesong,-5.32,119.39,Monsunal
+288,Sulsel,73050502a,BP2K Galesong Selatan,-5.37,119.37,Monsunal
+289,Sulsel,73050601a,Bonto Lebang,-5.42,119.39,Monsunal
+290,Sulsel,73050701a,Pattalassang,-5.42,119.43,Monsunal
+291,Sulsel,73050801a,Bppk Tottalasa,-5.47,119.42,Monsunal
+292,Sulsel,73060101a,Bontonompo / Barembeng,-5.35,119.42,Monsunal
+293,Sulsel,73060201a,Kipp Limbung / Bpp. Limbung,-5.29,119.44,Monsunal
+294,Sulsel,73060202a,Bb. Punaga/Limbung,-5.28,119.43,Monsunal
+295,Sulsel,73060301a,Bb. Garing,-5.44,119.84,Monsunal
+296,Sulsel,73060302a,Ex Smpk Bpp. Malakaji,-5.43,119.85,Monsunal
+297,Sulsel,73060401a,Ex Smpk Bb. Malino/Bpp. Tinggi Moncong,-5.25,119.85,Monsunal
+298,Sulsel,73060403a,Tinggimoncong/ Bbi Kentang,-5.25,119.91,Monsunal
+299,Sulsel,73060501a,Lonjoboko / Parangloe,-5.25,119.65,Monsunal
+300,Sulsel,73060502a,Bbi Horti / Bonto - Bonto,-5.29,119.57,Monsunal
+301,Sulsel,73060601a,Bontobilli,-5.29,119.57,Monsunal
+302,Sulsel,73060801a,Disperta Gowa,-5.2,119.46,Monsunal
+303,Sulsel,73060802a,Stageof Gowa Pagentungan,-5.2,119.48,Monsunal
+304,Sulsel,73060901a,Molonro / Bungaya,-5.36,119.73,Monsunal
+305,Sulsel,73061001a,Bpp. Bulluballea,-5.25,119.94,Monsunal
+306,Sulsel,73061501a,Paranglompoa / Paladingan,-5.38,119.8,Monsunal
+307,Sulsel,73070101a,Manipi / S. Barat,-5.21,120.01,Monsunal
+308,Sulsel,73070201a,Aska / S. Selatan,-5.21,120.22,Monsunal
+309,Sulsel,73070202a,Bikeru / S. Selatan,-5.26,120.15,Monsunal
+310,Sulsel,73070301a,Panaikang,-5.15,120.25,Lokal
+311,Sulsel,73070401a,Bpp. Lapadatta,-5.16,120.17,Monsunal
+312,Sulsel,73070501a,Biringere / S. Utara,-5.13,120.25,Lokal
+313,Sulsel,73070601a,Lamatti Riattang/Bulupoddo,-5.1,120.16,Monsunal
+314,Sulsel,73070701a,Pasir Putih,-5.32,120.07,Monsunal
+315,Sulsel,73070801a,Tellulimpoe,-5.26,120.21,Monsunal
+316,Sulsel,73080101a,Bontocani,-5.03,120.08,Monsunal
+317,Sulsel,73080201a,Bpp Kahu,-4.97,120.11,Monsunal
+318,Sulsel,73080301a,Bpp. Bontobulaeng/Kajuara,-5.09,120.25,Lokal
+319,Sulsel,73080401a,Biccoin,-4.99,120.28,Lokal
+320,Sulsel,73080402a,Bpp Manera Salomekko,-4.98,120.27,Lokal
+321,Sulsel,73080501a,Bpp Tonra,-4.96,120.27,Lokal
+322,Sulsel,73080701a,Bpp Mare,-4.8,120.34,Lokal
+323,Sulsel,73080802a,Bpp. Sibulue,-4.66,120.36,Lokal
+324,Sulsel,73080901a,Tallungeng,-4.58,120.35,Lokal
+325,Sulsel,73080902a,Unra,-4.45,120.31,Lokal
+326,Sulsel,73080903a,Bako Ale / Barebbo,-4.62,120.35,Lokal
+327,Sulsel,73080904a,Bpp Barebbo / Attabaja,-4.6,120.35,Lokal
+328,Sulsel,73080905a,Talungeng/Desa Kading,-4.59,120.33,Lokal
+329,Sulsel,73081001a,ex SMPK PG. Arasoe,-4.72,120.32,Lokal
+330,Sulsel,73081101a,Ponre,-4.65,120.19,Lokal
+331,Sulsel,73081201a,Bpp Lappariaja,-4.67,119.99,Monsunal
+332,Sulsel,73081301a,Lamuru / Pacciro,-4.6,119.97,Monsunal
+333,Sulsel,73081401a,Ulaweng,-4.52,120.14,Monsunal
+334,Sulsel,73081501a,Jaling / Mico / Palaka,-4.49,120.24,Lokal
+335,Sulsel,73081502a,Bpp Palakka,-4.57,120.26,Lokal
+336,Sulsel,73081601a,Ma'Cope / Awangpone,-4.5,120.35,Lokal
+337,Sulsel,73081701a,Tokaseng/T. Siatinge,-4.4,120.27,Lokal
+338,Sulsel,73081702a,Bpp. Lanca / Tellu Siattinge,-4.38,120.24,Lokal
+339,Sulsel,73081801a,Bpp. Ajangale / Pompanua,-4.23,120.19,Lokal
+340,Sulsel,73081901a,Bendungan Unnyi,-4.33,120.2,Lokal
+341,Sulsel,73081902a,Bpp Dua Boccoe,-4.32,120.25,Lokal
+342,Sulsel,73082001a,Cenrana,-4.33,120.32,Lokal
+343,Sulsel,73082101a,Biru/Tanete Riatang,-4.56,120.33,Lokal
+344,Sulsel,73082102a,Diperta Watangpone,-4.54,120.33,Lokal
+345,Sulsel,73082301a,Cellu/Tanete Riatang Timur,-4.56,120.33,Lokal
+346,Sulsel,73082401a,Bpp Amali,-4.4,120.11,Monsunal
+347,Sulsel,73082501a,Bpp Tellulimpoe,-5.27,120.23,Monsunal
+348,Sulsel,73082601a,Bpp Bengo/ Selli,-4.62,120.02,Monsunal
+349,Sulsel,73090101a,Bpp Mandai,-5.08,119.56,Monsunal
+350,Sulsel,73090102a,Stamet Hasanuddin,-5.06,119.54,Monsunal
+351,Sulsel,73090301a,Batubassi,-5.02,119.66,Monsunal
+352,Sulsel,73090302a,Bonti-Bonti,-4.99,119.62,Monsunal
+353,Sulsel,73090303a,Bpp. Bantimurung /Minasabaji,-5.01,119.63,Monsunal
+354,Sulsel,73090401a,Staklim Maros,-5,119.57,Monsunal
+355,Sulsel,73090601a,Bpp Mallawa,-4.86,119.91,Monsunal
+356,Sulsel,73090602a,Gatareng Matinggi,-4.78,119.94,Monsunal
+357,Sulsel,73090701a,Bpp Tanralili,-5.07,119.61,Monsunal
+358,Sulsel,73090801a,Pattene Marusu,-5.06,119.51,Monsunal
+359,Sulsel,73091001a,Bpp Cenrana,-5.02,119.78,Monsunal
+360,Sulsel,73091002a,Kappang,-5.01,119.75,Monsunal
+361,Sulsel,73091101a,Bpp Tompobulu,-5.14,119.65,Monsunal
+362,Sulsel,73091102a,Tombolo,-5.14,119.65,Monsunal
+363,Sulsel,73091201a,Pamelakang Jene / Solojirang,-4.99,119.57,Monsunal
+364,Sulsel,73091301a,Bpp Moncongloe,-5.15,119.54,Monsunal
+365,Sulsel,73100401a,Jagong,-4.84,119.53,Monsunal
+366,Sulsel,73100501a,Balocci,-4.92,119.7,Monsunal
+367,Sulsel,73100601a,Bungoro,-4.81,119.54,Monsunal
+368,Sulsel,73100701a,Labakkang / Gentung,-4.75,119.55,Monsunal
+369,Sulsel,73100801a,Bpp Ma'Rang,-4.67,119.57,Monsunal
+370,Sulsel,73100901a,Segeri,-4.66,119.58,Monsunal
+371,Sulsel,73101001a,Minasate'ne,-4.83,119.57,Monsunal
+372,Sulsel,73101101a,Segeri / Mandale,-4.61,119.6,Monsunal
+373,Sulsel,73101201a,Tondong Tallasa,-4.85,119.72,Monsunal
+374,Sulsel,73110101a,Tompo Lemo-Lemo (Sdn. Menrong),-4.51,119.77,Monsunal
+375,Sulsel,73110201a,Bpp Tanete Rilau,-4.48,119.61,Monsunal
+376,Sulsel,73110301a,Ex. Smpk Bpp Jampue,-4.39,119.62,Monsunal
+377,Sulsel,73110302a,Sumpang Binangae,-4.41,119.62,Monsunal
+378,Sulsel,73110303a,Kaerange Palakka,-4.43,119.71,Monsunal
+379,Sulsel,73110501a,Bpp Palanro,-4.17,119.64,Monsunal
+380,Sulsel,73110502a,Bojo,-4.08,119.62,Monsunal
+381,Sulsel,73110601a,Bpp. Pujananting (Doi-Doi),-4.59,119.7,Monsunal
+382,Sulsel,73110701a,Bpp Balusu,-4.32,119.64,Monsunal
+383,Sulsel,73120101a,Bpp. Marioriwawo,-4.45,119.95,Monsunal
+384,Sulsel,73120201a,Bpp. Pattojo / Liliriaja,-4.4,119.94,Ekuatorial
+385,Sulsel,73120301a,Pajalesang/BPP Lilirilau,-4.34,119.96,Ekuatorial
+386,Sulsel,73120401a,Smpk Bpp. Malanroe / Bpp. Lalabata,-4.34,119.92,Ekuatorial
+387,Sulsel,73120402a,Watansoppeng,-4.36,119.88,Ekuatorial
+388,Sulsel,73120501a,Bpp. Panincong,-4.21,119.89,Ekuatorial
+389,Sulsel,73120601a,Donri - Donri,-4.27,119.87,Ekuatorial
+390,Sulsel,73120701a,BPP Ganra,-4.3,119.93,Ekuatorial
+391,Sulsel,73120801a,Citta,-4.43,120.02,Monsunal
+392,Sulsel,73130101a,Bbi. Canru,-4.23,120.01,Ekuatorial
+393,Sulsel,73130201a,Bpp. Palaguna,-4.17,120.04,Lokal
+394,Sulsel,73130301a,BPP Takkalalla/Peneki,-4.18,120.28,Lokal
+395,Sulsel,73130401a,ex. SMPK Sakkoli,-3.96,120.22,Ekuatorial
+396,Sulsel,73130501a,Paria,-4.03,120.13,Lokal
+397,Sulsel,73130502a,Tosora / Majauleng,-4.14,120.1,Lokal
+398,Sulsel,73130601a,Tempe,-4.14,120.04,Lokal
+399,Sulsel,73130701a,Menge / Belawa,-3.98,119.92,Lokal
+400,Sulsel,73130801a,ex. SMPK. Bontouse,-4.05,120.03,Lokal
+401,Sulsel,73130901a,Anabanua,-3.94,120.06,Lokal
+402,Sulsel,73131001a,Siwa,-3.75,120.36,Ekuatorial
+403,Sulsel,73131101a,Sanreseng Ade,-4.23,120.26,Lokal
+404,Sulsel,73131201a,Bpp. Doping,-4.07,120.3,Lokal
+405,Sulsel,73131401a,BPP Keera,-3.85,120.34,Ekuatorial
+406,Sulsel,73140101a,Bilokka,-4.06,119.84,Ekuatorial
+407,Sulsel,73140102a,Lajonga/Panca Lautang,-4.07,119.87,Ekuatorial
+408,Sulsel,73140201a,Amparita,-3.98,119.81,Ekuatorial
+409,Sulsel,73140301a,Bpp. Watan Pulu/Lawawoi,-3.88,119.76,Ekuatorial
+410,Sulsel,73140401a,Bpp. Passeno Baranti,-3.85,119.77,Ekuatorial
+411,Sulsel,73140501a,Bb. Rappang,-3.84,119.83,Ekuatorial
+412,Sulsel,73140502a,Ex Smpk Lanrang,-3.85,119.83,Ekuatorial
+413,Sulsel,73140601a,K U L O,-3.77,119.8,Ekuatorial
+414,Sulsel,73140701a,Pangkajene/Diperta,-3.92,119.8,Ekuatorial
+415,Sulsel,73140702a,Sereang/Sidrap,-3.94,119.78,Ekuatorial
+416,Sulsel,73140801a,Empagae,-3.92,119.88,Lokal
+417,Sulsel,73140901a,Bb. Tanrutedong/Dua Pitue,-3.88,120,Lokal
+418,Sulsel,73141001a,Bulu Cenrana/Pituriawa,-3.85,119.95,Lokal
+419,Sulsel,73141101a,Bpp. Bila/Bila Riase,-3.86,120.05,Ekuatorial
+420,Sulsel,73150101a,Bpp. Langnga/Mattiro Sompe,-3.84,119.53,Monsunal
+421,Sulsel,73150201a,Suppa/Maritengae/Majenang,-3.96,119.63,Monsunal
+422,Sulsel,73150301a,Kariango/Mattirobulu,-3.84,119.64,Monsunal
+423,Sulsel,73150302a,Bpp. Mananrang/Mattiro Bulu,-3.84,119.64,Monsunal
+424,Sulsel,73150401a,BB Awang-awang/Watang Sawitto,-3.79,119.64,Monsunal
+425,Sulsel,73150501a,BB Leppangen,-3.73,119.63,Monsunal
+426,Sulsel,73150502a,BPP Teppo,-3.71,119.67,Monsunal
+427,Sulsel,73150601a,Lampa/Duampanua,-3.66,119.53,Monsunal
+428,Sulsel,73150602a,BPP Pekabatta/Bittoeng,-3.64,119.53,Monsunal
+429,Sulsel,73150701a,Rajang/Lembang,-3.57,119.58,Monsunal
+430,Sulsel,73150702a,Bpp. Lemo Susu/Lembang,-3.46,119.54,Monsunal
+431,Sulsel,73150703a,Todokkong/Tuppu/Lembang,-3.54,119.53,Monsunal
+432,Sulsel,73150801a,Bpp. Cempa,-3.75,119.59,Monsunal
+433,Sulsel,73151001a,Lanrisang,-3.89,119.57,Monsunal
+434,Sulsel,73151201a,Bpp. Batu Lappa,-3.66,119.71,Monsunal
+435,Sulsel,73160101a,Maiwa / Maroangin,-3.77,119.86,Ekuatorial
+436,Sulsel,73160201a,Enrekang,-3.58,119.77,Ekuatorial
+437,Sulsel,73160202a,Garutu,-3.5,119.75,Monsunal
+438,Sulsel,73160301a,Baraka,-3.41,119.86,Monsunal
+439,Sulsel,73160302a,Baroko,-3.31,119.77,Monsunal
+440,Sulsel,73160401a,Cakke / Anggeraja,-3.41,119.8,Monsunal
+441,Sulsel,73160402a,Bpp Anggareja,-3.38,119.79,Monsunal
+442,Sulsel,73160501a,Belajen/ Alle,-3.32,119.82,Monsunal
+443,Sulsel,73160601a,Bungin,-3.54,119.95,Ekuatorial
+444,Sulsel,73160701a,Kabere / Cendana,-3.67,119.79,Ekuatorial
+445,Sulsel,73160801a,Curio,-3.31,119.91,Monsunal
+446,Sulsel,73160901a,Malua,-3.38,119.87,Monsunal
+447,Sulsel,73161001a,Buntu Batu,-3.47,119.9,Monsunal
+448,Sulsel,73161101a,Masalle,-3.34,119.75,Monsunal
+449,Sulsel,73170101a,BPK Basse Sangtempe,-3.17,120.04,Monsunal
+450,Sulsel,73170201a,Larompong,-3.53,120.37,Ekuatorial
+451,Sulsel,73170301a,Suli,-3.47,120.37,Ekuatorial
+452,Sulsel,73170401a,Bpp. Bajo,-3.37,120.38,Ekuatorial
+453,Sulsel,73170601a,Walenrang Barat,-2.8,120.2,Monsunal
+454,Sulsel,73170602a,Bpp. Tombang/Ip3 Karetan/Walenrang,-2.89,120.16,Monsunal
+455,Sulsel,73170701a,Belopa,-3.38,120.36,Ekuatorial
+456,Sulsel,73170801a,Bastem/Bua,-3.09,120.23,Monsunal
+457,Sulsel,73171001a,Larompong Selatan,-3.61,120.4,Ekuatorial
+458,Sulsel,73171101a,Padang Sappa,-3.37,120.31,Ekuatorial
+459,Sulsel,73171102a,Bpk Model Ponrang,-3.22,120.29,Monsunal
+460,Sulsel,73171201a,BPP Latimojong,-3.37,120.19,Ekuatorial
+461,Sulsel,73171202a,Bpp Latimojong,-3.37,120.19,Ekuatorial
+462,Sulsel,73171401a,BPP Kamanre,-3.32,120.34,Ekuatorial
+463,Sulsel,73171801a,Sinangkala/Lamasi Timur,-3.35,120.16,Monsunal
+464,Sulsel,73171802a,Lamasi Timur/Seriti,-3.37,120.31,Ekuatorial
+465,Sulsel,73180101a,Bpp. Ulusalu,-3.05,119.77,Monsunal
+466,Sulsel,73180201a,Bpp. Bituang,-2.97,119.67,Monsunal
+467,Sulsel,73180301a,Bpp. Bonggakaradeng/Leon,-3.19,119.73,Monsunal
+468,Sulsel,73180501a,Toa'O,-3.09,119.85,Monsunal
+469,Sulsel,73180901a,Stamet Pongtiku Tana Toraja,-3.05,119.82,Monsunal
+470,Sulsel,73181201a,BPP Mengkendek/Tampo,-3.21,119.9,Monsunal
+471,Sulsel,73181202a,Mebali,-3.2,119.89,Monsunal
+472,Sulsel,73181901a,Salubarani/Gandasil,-3.21,119.9,Monsunal
+473,Sulsel,73182701a,Makale Utara,-3.05,119.87,Monsunal
+474,Sulsel,73183301a,Sangalla Selatan,-3.11,119.91,Monsunal
+475,Sulsel,73183401a,Bpp. Sangalla,-3.07,119.92,Monsunal
+476,Sulsel,73183501a,Bpp. Malimbong/Rembong,-3.08,119.78,Monsunal
+477,Sulsel,73220101a,Amasangen/ Malangke,-2.78,120.43,Monsunal
+478,Sulsel,73220201a,Ex. Smpk. Bone-Bone,-2.56,120.54,Monsunal
+479,Sulsel,73220301a,Disperta Masamba,-2.43,120.33,Monsunal
+480,Sulsel,73220302a,Stamet Masamba,-2.55,120.32,Monsunal
+481,Sulsel,73220401a,Bpp. Sabbang,-2.52,120.21,Monsunal
+482,Sulsel,73220501a,Limbong/Rongkong,-2.56,119.97,Monsunal
+483,Sulsel,73220601a,Sukamaju,-2.54,120.48,Monsunal
+484,Sulsel,73220701a,Seko,-2.27,119.89,Monsunal
+485,Sulsel,73220801a,Malangke Barat,-2.76,120.25,Monsunal
+486,Sulsel,73220901a,Rampi,-2.13,120.22,Monsunal
+487,Sulsel,73221001a,Bpp. Cendana Putih/Mappadeceng,-2.58,120.38,Monsunal
+488,Sulsel,73221101a,Baebunta,-2.46,120.19,Monsunal
+489,Sulsel,73221201a,BP3K Tanalili,-2.61,120.6,Monsunal
+490,Sulsel,73240101a,Maleku/ Wonorejo/Mangkutana,-2.35,120.65,Monsunal
+491,Sulsel,73240301a,Towuti,-2.64,121.37,Monsunal
+492,Sulsel,73240401a,Desa Malili,-2.64,121.31,Monsunal
+493,Sulsel,73240501a,Bpp. Angkona,-2.59,120.97,Monsunal
+494,Sulsel,73240502a,Dinas Pertanian Malili,-2.62,121.12,Monsunal
+495,Sulsel,73240601a,Wotu,-2.6,120.81,Monsunal
+496,Sulsel,73240701a,Bonepute/Wotu/Burau,-2.57,120.74,Monsunal
+497,Sulsel,73240801a,Tomoni,-2.42,120.73,Monsunal
+498,Sulsel,73241101a,Wasuponda / Nuha,-2.44,121.38,Monsunal
+499,Sulsel,73260101a,Bpp. Rantepao,-2.96,119.89,Monsunal
+500,Sulsel,73260201a,Bpp. To'Karau/Sesean,-2.9,119.95,Monsunal
+501,Sulsel,73260301a,Nanggala,-2.99,119.99,Monsunal
+502,Sulsel,73260401a,BPP Rindingallo,-2.9,119.81,Monsunal
+503,Sulsel,73260701a,Bpp. Sanggalangi,-3.02,119.91,Monsunal
+504,Sulsel,73261001a,Balusu,-2.92,120,Monsunal
+505,Sulsel,73261501a,Kesu',-2.98,119.91,Monsunal
+506,Sulsel,73261601a,Tondon,-2.96,119.95,Monsunal
+507,Sulsel,73261801a,Rantebua,-3.09,119.99,Monsunal
+508,Sulsel,73262001a,Kapalapitu,-2.94,119.84,Monsunal
+509,Sulsel,73710701a,Stamar Paotere,-5.11,119.42,Monsunal
+510,Sulsel,73710901a,Balai Wil. Iv,-5.15,119.45,Monsunal
+511,Sulsel,73711001a,Bpp Barombong,-5.21,119.39,Monsunal
+512,Sulsel,73711101a,Bpp Sudiang,-5.08,119.52,Monsunal
+513,Sulsel,73711201a,Biring Romang,-5.18,119.48,Monsunal
+514,Sulsel,73720101a,Bulu Dua,-4.17,120.04,Lokal
+515,Sulsel,73720301a,Bukit Harapan,-5.02,119.66,Monsunal
+516,Sulsel,73730101a,Wara,-3.04,120.17,Monsunal
+517,Sulsel,73730401a,BP3K Bara,-2.96,120.19,Monsunal
+518,Sulsel,73730402a,BPP Tellu Wanua,-2.92,120.18,Monsunal
+519,Sulsel,73730601a,Wara Barat,-2.96,120.1,Monsunal
+520,Sulsel,73730701a,BP3K Sendana Barat,-3.05,120.21,Monsunal
+521,Sultra,74010101a,Kowioha,-4.11,121.68,Monsunal
+522,Sultra,74010201a,Lalingato,-4.01,121.86,Monsunal
+523,Sultra,74010301a,Lapangisi,-3.99,121.74,Monsunal
+524,Sultra,74010401a,Balandete,-4.07,121.63,Monsunal
+525,Sultra,74010702a,Sopura,-4.26,121.57,Monsunal
+526,Sultra,74010801a,Tandebura,-4.5,121.51,Monsunal
+527,Sultra,74010901a,Welala,-4.16,121.92,Monsunal
+528,Sultra,74011001a,Konaweha,-3.84,121.26,Monsunal
+529,Sultra,74011002a,Wolo,-3.88,121.33,Monsunal
+530,Sultra,74011401a,Induha,-4.02,121.53,Monsunal
+531,Sultra,74011801a,Petudua,-4.35,121.56,Monsunal
+532,Sultra,74012002a,Kaloloa,-3.98,121.36,Monsunal
+533,Sultra,74012401a,Rano Jaya,-4.54,121.5,Monsunal
+534,Sultra,74020101a,Asaki,-3.95,122.07,Monsunal
+535,Sultra,74020102a,Lambuya2,-4.06,122.02,Monsunal
+536,Sultra,74020201a,Puunaha,-3.83,122.06,Monsunal
+537,Sultra,74020301a,Lalosabila,-3.87,122.09,Monsunal
+538,Sultra,74020501a,Pohara,-3.98,122.39,Monsunal
+539,Sultra,74021001a,Padang Mekar,-3.73,121.89,Monsunal
+540,Sultra,74021501a,Lalonggowuna,-3.81,121.99,Monsunal
+541,Sultra,74021701a,Watundehoa,-4.05,122.12,Monsunal
+542,Sultra,74021801a,Humboto,-3.92,122.06,Monsunal
+543,Sultra,74021901a,Lalohao,-3.95,122.17,Monsunal
+544,Sultra,74023601a,Lalonggasumeeto,-3.89,122.51,Monsunal
+545,Sultra,74023901a,Paku Jaya,-3.9,122.38,Monsunal
+546,Sulbar,74040601a,Spp. Binuang,-3.43,119.39,Monsunal
+547,Sultra,74050101a,Ngapaha,-4.46,122.21,Monsunal
+548,Sultra,74050201a,Lamooso,-4.12,122.17,Monsunal
+549,Sultra,74050202a,Motaha,-4.14,122.11,Monsunal
+550,Sultra,74050301a,Anese,-4.32,122.19,Monsunal
+551,Sultra,74050401a,Wawonggura,-4.35,122.34,Monsunal
+552,Sultra,74050402a,Onembute,-4.03,121.98,Monsunal
+553,Sultra,74050501a,Lakomea,-4.1,122.32,Monsunal
+554,Sultra,74050602a,Lainea,-4.3,122.47,Monsunal
+555,Sultra,74050603a,Kaindi,-4.39,122.6,Monsunal
+556,Sultra,74050801a,Amoito,-4.08,122.38,Monsunal
+557,Sultra,74051001a,Margacinta,-4.15,122.64,Monsunal
+558,Sultra,74051201a,Sumber Jaya,-4.37,122.01,Monsunal
+559,Sultra,74051501a,Mulya Sari,-4.1,122.24,Monsunal
+560,Sultra,74051701a,Buke,-4.28,122.22,Monsunal
+561,Sultra,74051801a,Wolasi,-4.2,122.5,Monsunal
+562,Sultra,74051902a,Rambu-Rambu,-4.31,122.45,Monsunal
+563,Sultra,74060201a,Bambaea,-4.81,121.75,Monsunal
+564,Sultra,74060202a,Teppoe,-4.82,121.76,Monsunal
+565,Sultra,74060301a,Rarowatu,-4.73,121.95,Monsunal
+566,Sultra,74060302a,Taubonto,-4.72,121.94,Monsunal
+567,Sultra,74060401a,Kasipute,-4.75,122.02,Monsunal
+568,Sultra,74060701a,Boepinang,-4.77,121.59,Monsunal
+569,Sultra,74060702a,Toari Bombana,-4.6,121.48,Monsunal
+570,Sultra,74080101a,Lasusua,-3.51,120.88,Monsunal
+571,Sultra,74080201a,Olo-Oloho,-3.16,121.07,Monsunal
+572,Sultra,74080401a,Rante Baru,-3.65,121.02,Monsunal
+573,Sultra,74090101a,Lahimbua,-3.58,122.15,Monsunal
+574,Sultra,74090102a,Wanggudu,-3.58,122.15,Monsunal
+575,Sultra,74090201a,Lamonae,-3.24,122.15,Monsunal
+576,Sultra,74090401a,Molawe,-3.61,122.2,Monsunal
+577,Sultra,74090501a,Andumowu,-3.66,122.24,Monsunal
+578,Sultra,74090601a,Lembo,-3.75,122.37,Monsunal
+579,Sultra,74090801a,Mopute,-3.38,122.06,Monsunal
+580,Sultra,74710101a,Mandonga,-3.97,122.51,Monsunal
+581,Gorontalo,75010201a,Telaga,0.58,123.04,Ekuatorial
+582,Gorontalo,75010301a,Batudaa,0.55,122.98,Ekuatorial
+583,Gorontalo,75010401a,Stamet Djalaluddin,0.64,122.85,Ekuatorial
+584,Gorontalo,75011001a,Telaga Biru,0.71,123.04,Ekuatorial
+585,Gorontalo,75011002a,Stageof Gorontalo,0.65,123.01,Ekuatorial
+586,Gorontalo,75011101a,Bongomeme,0.59,122.83,Ekuatorial
+587,Gorontalo,75011301a,Lakeya,0.71,122.53,Ekuatorial
+588,Gorontalo,75011401a,Mootilango,0.7,122.66,Ekuatorial
+589,Gorontalo,75011701a,Limboto Barat,0.64,122.93,Ekuatorial
+590,Gorontalo,75011801a,Tilango,0.57,123.03,Ekuatorial
+591,Gorontalo,75012001a,Biluhu,0.49,122.8,Ekuatorial
+592,Gorontalo,75012301a,Bilato,0.57,122.64,Ekuatorial
+593,Gorontalo,75020101a,Paguyaman,0.64,122.56,Ekuatorial
+594,Gorontalo,75020202a,Wonosari,0.7,122.45,Ekuatorial
+595,Gorontalo,75020301a,Dulupi,0.58,122.46,Ekuatorial
+596,Gorontalo,75020401a,Tilamuta,0.53,122.34,Ekuatorial
+597,Gorontalo,75020501a,Mananggu,0.51,122.14,Ekuatorial
+598,Gorontalo,75020601a,Botumoito,0.51,122.3,Ekuatorial
+599,Gorontalo,75020701a,Paguyaman Pantai,0.51,122.58,Ekuatorial
+600,Gorontalo,75030101a,Tapa,0.59,123.07,Ekuatorial
+601,Gorontalo,75030201a,Kabila,0.54,123.1,Ekuatorial
+602,Gorontalo,75030301a,Suwawa,0.53,123.14,Ekuatorial
+603,Gorontalo,75030401a,Bone Pantai,0.38,123.21,Ekuatorial
+604,Gorontalo,75030501a,Bulango Utara,0.63,123.08,Ekuatorial
+605,Gorontalo,75030601a,Tilong Kabila,0.59,123.11,Ekuatorial
+606,Gorontalo,75030603a,Staklim Bone Bolango,0.56,123.14,Ekuatorial
+607,Gorontalo,75030701a,Botupingge,0.52,123.11,Ekuatorial
+608,Gorontalo,75030801a,Kabila Bone,0.45,123.13,Ekuatorial
+609,Gorontalo,75030901a,Bone,0.36,123.26,Ekuatorial
+610,Gorontalo,75031001a,Bone Raya,0.31,123.34,Ekuatorial
+611,Gorontalo,75031101a,Suwawa Timur,0.51,123.25,Ekuatorial
+612,Gorontalo,75031201a,Suwawa Selatan,0.49,123.19,Ekuatorial
+613,Gorontalo,75031301a,Suwawa Tengah,0.54,123.18,Ekuatorial
+614,Gorontalo,75031701a,Bulawa,0.32,123.27,Ekuatorial
+615,Gorontalo,75040101a,Popayato,0.5,121.46,Ekuatorial
+616,Gorontalo,75040201a,Lemito,0.55,121.57,Ekuatorial
+617,Gorontalo,75040301a,Randangan,0.53,121.81,Ekuatorial
+618,Gorontalo,75040401a,Marisa,0.46,121.91,Ekuatorial
+619,Gorontalo,75040501a,Paguat,0.5,122.07,Ekuatorial
+620,Gorontalo,75040601a,Patilangio,0.51,121.86,Ekuatorial
+621,Gorontalo,75040701a,Taluditi,0.63,121.82,Monsunal
+622,Gorontalo,75040801a,Dengilo,0.64,122.11,Ekuatorial
+623,Gorontalo,75041101a,Wonggarasi,0.56,121.53,Ekuatorial
+624,Gorontalo,75041201a,Popayato Timur,0.52,121.49,Ekuatorial
+625,Gorontalo,75041401a,Bulango Ulu,0.66,123.13,Ekuatorial
+626,Gorontalo,75050101a,Atinggola I,0.89,123.12,Monsunal
+627,Gorontalo,75050201a,Kwandang I,0.83,122.92,Monsunal
+628,Gorontalo,75050202a,Kwandang II,0.76,122.87,Monsunal
+629,Gorontalo,75050301a,Anggrek,0.85,122.78,Monsunal
+630,Gorontalo,75050401a,Sumalata,0.98,122.42,Monsunal
+631,Gorontalo,75050501a,Tolinggula,1.01,122.17,Monsunal
+632,Gorontalo,75050601a,Gentuma Raya,0.92,123.03,Monsunal
+633,Gorontalo,75050602a,Atinggola II,0.9,123.09,Monsunal
+634,Gorontalo,75050901a,Monano,0.86,122.69,Monsunal
+635,Gorontalo,75051101a,Sumalata Timur,0.95,122.56,Monsunal
+636,Gorontalo,75710101a,Kota Barat,0.54,123.03,Ekuatorial
+637,Gorontalo,75710201a,Kota Selatan,0.53,123.06,Ekuatorial
+638,Gorontalo,75710301a,Kota Utara,0.56,123.09,Ekuatorial
+639,Gorontalo,75710801a,Dumbo Raya,0.5,123.09,Ekuatorial
+640,Sulbar,76010101a,Pskn. Randomayang,-1.02,119.48,Monsunal
+641,Sulbar,76010201a,Poskeswan Mertajaya,-1.17,119.44,Monsunal
+642,Sulbar,76010501a,Poskeswan Dapurang,-1.73,119.47,Monsunal
+643,Sulbar,76010801a,Kantor Desa Lariang/Tikke Raya,-1.4,119.33,Monsunal
+644,Sulbar,76010901a,Kantor Desa Malei,-1.25,119.33,Monsunal
+645,Sulbar,76011201a,Bpp Baras/Lariang,-1.47,119.37,Monsunal
+646,Sulbar,76020101a,Mamuju,-2.69,118.88,Monsunal
+647,Sulbar,76020201a,Tappalang,-2.78,118.86,Monsunal
+648,Sulbar,76020301a,Kalukku,-2.6,119.05,Monsunal
+649,Sulbar,76020401a,Kalumpang,-2.47,119.48,Monsunal
+650,Sulbar,76020501a,Budong-Budong,-2.08,119.24,Monsunal
+651,Sulbar,76020601a,Pangale,-2.26,119.2,Monsunal
+652,Sulbar,76020701a,Papalang,-2.43,119.15,Monsunal
+653,Sulbar,76020801a,Sampaga,-2.35,119.22,Monsunal
+654,Sulbar,76020901a,Topoyo,-2.05,119.27,Monsunal
+655,Sulbar,76021001a,Karossa,-1.97,119.49,Monsunal
+656,Sulbar,76021101a,Tommo,-2.25,119.46,Monsunal
+657,Sulbar,76021201a,Simkep,-2.32,119.33,Monsunal
+658,Sulbar,76021301a,Tappalang Barat,-2.77,118.78,Monsunal
+659,Sulbar,76021401a,Tobadak,-2.1,119.36,Monsunal
+660,Sulbar,76021501a,Bonehau,-2.61,119.26,Monsunal
+661,Sulbar,76030101a,Bpp Mambi,-2.94,119.17,Monsunal
+662,Sulbar,76030301a,Bpp Mamasa,-2.92,119.37,Monsunal
+663,Sulbar,76030501a,Bpp Tabulahan,-2.67,119.19,Monsunal
+664,Sulbar,76030601a,Bpp Sumarorong,-3.14,119.3,Monsunal
+665,Sulbar,76030701a,Bpp Messawa,-3.25,119.34,Monsunal
+666,Sulbar,76030901a,Bpp Tanduk Kalua,-3.07,119.32,Monsunal
+667,Sulbar,76031301a,Bpp Nosu,-3.13,119.49,Monsunal
+668,Sulbar,76040201a,Bpp. Campalagian,-3.42,119.16,Ekuatorial
+669,Sulbar,76040301a,Bpp. Wonomulyo,-3.38,119.22,Ekuatorial
+670,Sulbar,76040401a,Bbi Padi Lantora,-3.42,119.33,Monsunal
+671,Sulbar,76040402a,Unasman Manding,-3.4,119.31,Monsunal
+672,Sulbar,76040602a,Bpp. Tonyaman,-3.43,119.37,Monsunal
+673,Sulbar,76040701a,Bpp. Tapango,-3.37,119.23,Ekuatorial
+674,Sulbar,76040801a,Bpp. Mapilli,-3.4,119.2,Ekuatorial
+675,Sulbar,76040802a,Breeding Andau,-3.32,119.17,Ekuatorial
+676,Sulbar,76041101a,BPP. Limboro,-3.47,119.51,Monsunal
+677,Sulbar,76041301a,Bpp. Anreapi,-3.37,119.36,Monsunal
+678,Sulbar,76041401a,Bpp. Matakali,-3.37,119.29,Monsunal
+679,Sulbar,76050101a,Bpp Banggae/Diperta,-3.53,118.94,Monsunal
+680,Sulbar,76050201a,Bpp Pamboang,-3.48,118.9,Monsunal
+681,Sulbar,76050301a,Bp3K Sendana,-3.36,118.87,Ekuatorial
+682,Sulbar,76050401a,Bpp Malunda,-3,118.86,Monsunal
+683,Sulbar,76050501a,Ulumanda,-3.04,118.87,Monsunal
+684,Sulbar,76050601a,Bp3K Tammeroddo Sendana,-3.23,118.84,Monsunal
+685,Sulbar,76050701a,Bp3K Tubo Sendana,-3.12,118.78,Monsunal
+686,Sulbar,76050801a,Bp3K Kp. Baru / Banggae Timur,-3.53,118.98,Monsunal
